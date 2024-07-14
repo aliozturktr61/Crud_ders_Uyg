@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "409ce88b-a6d4-4372-8bf8-293cecb4022a",
+      "status": "important",
+      "title": "v",
+      "date": "11.07.2024"
+    },
+    {
+      "id": "a4ebe8eb-191e-495b-b6c7-0cfea82a9548",
+      "status": "important",
+      "title": "vasdasd",
+      "date": "11.07.2024"
+    },
+    {
+      "id": "ee54b855-09c3-439f-98a4-e732f88847e3",
+      "status": "important",
+      "title": "dfsgfdsgfds",
+      "date": "12.07.2024"
+    },
+    {
+      "id": "c2291bce-226f-4445-ba68-29deab4f7256",
+      "status": "daily",
+      "title": "dfsgfdsgfds12",
+      "date": "12.07.2024"
+    }
+  ]
+}
