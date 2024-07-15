@@ -21,7 +21,12 @@ axios.get("http://localhost:4000/todos")
     <Form setTodos={setTodos}/>
    <ul>
     {todos?.map((todo)=>
-      <ListItem key={todo.id} todo={todo}/>)}
+      <ListItem
+            setTodos={setTodos}
+            allTodos={todos}
+            key={todo.id}
+            todo={todo}
+          />
       
    </ul>
     </div>
