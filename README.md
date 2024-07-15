@@ -24,6 +24,7 @@
 
 
 ## Axios
+
 --Kurulum
 "npm install axios"
 
@@ -50,3 +51,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </>,
 );# Crud_ders_Uyg
 
+![crud](https://github.com/user-attachments/assets/7dd12cc9-8585-4737-b2cb-5db410f4a40c)
